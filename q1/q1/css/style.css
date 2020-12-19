@@ -22,7 +22,7 @@
   text-align: center;
 }
 
-.q1--perimeter{
+.table{
   display: table;
 }
 .table--box{
@@ -39,7 +39,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 150px;
 }
 .flex--text{
   background: #ffffff;
