@@ -16,7 +16,7 @@ th{
 tr{
   background: #d5ffc7;
 }
-tr:nth-child(odd){
+tr:nth-child(2n){
   background: #babcba;
 }
 tr:last-child{
