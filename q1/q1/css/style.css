@@ -22,10 +22,8 @@
   text-align: center;
 }
 
-.table{
+.q1--perimeter{
   display: table;
-  width: 250px;
-  height: 150px;
 }
 .table--box{
   display: table-cell;
